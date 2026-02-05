@@ -9,9 +9,6 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=AshwinPrasanth&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AshwinPrasanth&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AshwinPrasanth&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
