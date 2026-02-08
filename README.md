@@ -36,19 +36,8 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://gitmystat.vercel.app/user?theme=vsdark&username=AshwinPrasanth" height="180"/>
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=AshwinPrasanth&theme=tokyonight&hide_border=true" height="180"/>
-    </td>
-    <td align="center">
-      <img src="https://gitmystat.vercel.app/top?theme=vsdark&username=AshwinPrasanth&layout=default" height="180"/>
-    </td>
-  </tr>
-</table>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinPrasanth&theme=tokyonight" /> </p>
 
 
 
