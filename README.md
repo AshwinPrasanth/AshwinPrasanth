@@ -4,6 +4,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Researcher;MSc+Advanced+AI+@+UCD;Building+Intelligent+Systems;Always+Learning" />
 </p>
 
+<h2 align="center">Products</h2>
+
+<div align="center">
+
+<p align="center">
+  <a href="https://pypi.org/project/webc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/AshwinPrasanth/Webc/be6a263e12c1e75e194ffdc7e9406932e92397b3/assets/webc.png" width="160" alt="WebC Logo"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://pypi.org/project/webc/" target="_blank">
+    <img src="https://img.shields.io/pypi/v/webc?color=blue&label=PyPI&logo=pypi&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
 
 
 <h2 align="center">📊 GitHub Stats</h2>
