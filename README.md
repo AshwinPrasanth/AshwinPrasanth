@@ -50,7 +50,8 @@
   Ethical AI &nbsp;&nbsp;•&nbsp;&nbsp; 
   ML Systems (MLOps) &nbsp;&nbsp;•&nbsp;&nbsp; 
   Clinical Research &nbsp;&nbsp;•&nbsp;&nbsp; 
-  Time Series Learning
+  Time Series Learning &nbsp;&nbsp;•&nbsp;&nbsp;
+  Data Mining And API  
   </p>
 
 <br/>
