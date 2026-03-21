@@ -47,8 +47,8 @@
   <h2 align="center">⚡ Currently Running</h2>
 
   <p align="center" style="letter-spacing:0.15em; font-weight:500;">
-  Ethical AI &nbsp;&nbsp;•&nbsp;&nbsp; 
-  ML Systems (MLOps) &nbsp;&nbsp;•&nbsp;&nbsp; 
+  Optimization &nbsp;&nbsp;•&nbsp;&nbsp; 
+  Vision Models &nbsp;&nbsp;•&nbsp;&nbsp; 
   Clinical Research &nbsp;&nbsp;•&nbsp;&nbsp; 
   Time Series Learning &nbsp;&nbsp;•&nbsp;&nbsp;
   Data Mining And API  
